@@ -1,0 +1,8 @@
+input[type=text].form-control,
+.form-group select{
+  padding: 0.4rem 0.6rem;
+}
+
+body{
+  margin-top: 2rem;
+}
